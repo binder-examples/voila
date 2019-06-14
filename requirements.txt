@@ -1,4 +1,4 @@
 matplotlib==2.2.3
 ipywidgets
-voila==0.1.0
+voila==0.1.2
 pandas==0.23.4
