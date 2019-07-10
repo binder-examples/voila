@@ -1,0 +1,9 @@
+name: voila-gallery-country-indicators
+channels:
+- conda-forge
+dependencies:
+- matplotlib=2.2.3
+- pandas=0.23.4
+- ipywidgets=7.5.0
+- voila=0.1.6
+
