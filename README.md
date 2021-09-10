@@ -1,4 +1,4 @@
-# Voilà Example: Country Indicators
+# Interactive dashboard from notebook with Voilà
 
 | Voilà | JupyterLab |
 | :-----------------------: | :---------------------: |
